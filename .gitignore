@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# YOLO outputs
+runs/
+
+# Datasets
+african-wildlife/
+*.zip
+
+# Model files
+*.pt
+*.onnx
+*.bin
+*.param
+
+# OS
+.DS_Store
+Thumbs.db
