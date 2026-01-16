@@ -8,7 +8,8 @@ This project aims to support **wildlife conservation, forest monitoring, and hum
 ## Project Overview
 
 <img width="572" height="731" alt="image" src="https://github.com/user-attachments/assets/9c6415c6-3d06-41ef-b2df-96a3a540368e" />
-![WhatsApp Image 2026-01-12 at 06 17 22](https://github.com/user-attachments/assets/f748ca9e-3aee-4b7d-b21b-5ccbf614b6ba)
+
+
 
 
 ---
