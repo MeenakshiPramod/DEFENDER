@@ -5,8 +5,14 @@ A deep learning–based object detection system to identify African wildlife spe
 This project aims to support **wildlife conservation, forest monitoring, and human–animal conflict prevention** by enabling real-time animal detection.
 
 ---
+## Project Overview
 
-## 🚀 Features
+<img width="572" height="731" alt="image" src="https://github.com/user-attachments/assets/9c6415c6-3d06-41ef-b2df-96a3a540368e" />
+![WhatsApp Image 2026-01-12 at 06 17 22](https://github.com/user-attachments/assets/f748ca9e-3aee-4b7d-b21b-5ccbf614b6ba)
+
+
+---
+## Features
 
 - ✅ Real-time wildlife detection using webcam
 - ✅ Trained on African Wildlife Dataset
@@ -17,7 +23,7 @@ This project aims to support **wildlife conservation, forest monitoring, and hum
 
 ---
 
-## 🦓 Detected Classes
+## Detected Classes
 
 | Class ID | Animal |
 |--------|--------|
@@ -28,7 +34,7 @@ This project aims to support **wildlife conservation, forest monitoring, and hum
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Ultralytics YOLO (YOLOv8 / YOLO11)**
@@ -39,7 +45,7 @@ This project aims to support **wildlife conservation, forest monitoring, and hum
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 African-Wildlife-Detection-YOLO/
 │
@@ -57,7 +63,7 @@ African-Wildlife-Detection-YOLO/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **African Wildlife Detection Dataset**, an object detection dataset containing annotated images of African animals captured in natural environments.
 
@@ -67,7 +73,7 @@ The project uses the **African Wildlife Detection Dataset**, an object detection
 
 ---
 
-## 🏋️ Model Training
+## Model Training
 
 To train the YOLO model:
 
